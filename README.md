@@ -6,4 +6,4 @@ This is My First Java Program
 
 **Execute-   java HelloWorld(if class is public then class name is case sensitive)** 
 
-Here is my java Codes : [Click_here](/javaAssign)
+Here is my java simple Programs and JSP Servlet Program
